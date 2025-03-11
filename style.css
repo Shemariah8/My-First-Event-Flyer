@@ -1,0 +1,60 @@
+/* This is where you write out the styles for you app */
+
+    
+
+
+body	{
+    color: initial;
+    text-align: center;
+    font-family: cambria;
+    background-image: linear-gradient(blue, BlueViolet, Coral, DeepPink, Fuchsia, Crimson, DarkOrange, DarkSalmon, GoldenRod);
+    background-size: cover;
+}
+
+h1	{
+    color: tomato;
+    margin: 5px;
+    font-size: 60px;
+    padding: 10px;
+    text-align: center;
+    border: 8px inset Indigo;
+}
+
+h2	{
+    font-size: 50px;
+    color:Indigo;
+    margin: 100px;
+    padding: 50px;
+    border: 3px outset BlueViolet;
+}
+
+h3	{
+    color:Indigo;
+    font-size:50px;
+}
+
+p	{
+    font-size: 60px;
+}
+
+#para1	{
+    color:Indigo;
+    font-size: 45px;
+    margin: 50px;
+    padding: 70px;
+    border: 15px solid Indigo;
+}
+
+img	{
+    border: 3px solid Indigo;
+}
+
+
+a.one:link {color:Indigo;text-decoration:underline;}
+a.one:visited {color:Indigo;text-decoration:none;}
+a.one:hover {color:Fuchsia;text-decoration:underline;}
+
+a.two:link {color:Indigo;}
+a.two:visited {color:Indigo;}
+a.two:hover {color:Tomato;}
+
